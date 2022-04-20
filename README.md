@@ -1,1 +1,2 @@
-# KDVTutari-Hesaplayan-Program
+# KDVTutari-Hesaplayan-Program.
+[Patika Linki](www.patika.com)
