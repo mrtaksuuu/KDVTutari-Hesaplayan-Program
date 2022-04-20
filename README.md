@@ -1,2 +1,2 @@
 # KDVTutari-Hesaplayan-Program.
-[Patika Linki](www.patika.com)
+[Patika Linki](https://app.patika.dev/)
